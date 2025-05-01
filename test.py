@@ -1,1 +1,1 @@
-print('hello world dfsd')
+print('hello world')
